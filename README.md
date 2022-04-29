@@ -1,6 +1,6 @@
 
 
-# Simple Implementation of Residual Quantizer and RQ-VAE
+# Simple Pytorch Implementation of Residual Quantizer and RQ-VAE
 
 RQ-VAE (Residual-Quantized Variational Autoencoder) is a modification of VQ-VAE (Vector Quantized-Variational Autoencoder).
 
